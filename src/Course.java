@@ -17,5 +17,5 @@ public class Course {
             }
             member.setPassedCourse(passedCourse);
         }
-    }
+    }//
 }
