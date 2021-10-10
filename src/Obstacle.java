@@ -7,5 +7,5 @@ public class Obstacle {
 
     public Obstacle(String description){
         this.description = description;
-    }
+    }//
 }
